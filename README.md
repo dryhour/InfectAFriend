@@ -2,6 +2,12 @@ PLEASE READ THIS!
 THESE ARE FILES IMPORTED FROM ROBLOX STUDIO TO VSCODE. This project is simply to SHOWCASE my code. There will be missing code, and it will not work if ran.
 You can visit this project here: https://www.roblox.com/games/109061728776302/Infect-A-Friend.
 
+Contains scripts from:
+Serverscriptservice
+Startergui
+Starterplayerscripts
+Startercharacterscripts
+
 PLACE DESCRIPTION
 [
 ⭐SPECIAL THANKS⭐ @tincoils for the building assets!
